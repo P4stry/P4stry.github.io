@@ -1,30 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan University](https://www.ln.edu.hk) supervised by [Prof. Daoyuan Wu](https://daoyuan14.github.io/#arXiv2403-2). He received his MSc degree from [Nanyang Technological University](https://www.ntu.edu.sg) in 2024 and bachelor degree from [South China University of Technology](https://www.scut.edu.cn) in 2022.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
-A data-driven personal website
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
+
+📖 Educations
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- 2023.08 - 2024.06, MSc student at college of computing and data science, Nanyang Technological University, Singapore.
+- 2018.09 - 2022.06, Undergraduate student at school of computer science and engineering, South China University of Technology, Guangzhou, Guangdong, P.R.C.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
+<!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
+
+<!-- For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [Plotly](https://plotly.com/javascript/) for plotting -->
 
-Getting started
+💻 Working Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+
+- 2025.11 - now, Research Assistant supervised by Prof. Daoyuan Wu, Lingnan University, Hong Kong SAR, China
+- 2025.04 - 2025.10, Research Assistant supervised by Prof. Daoyuan Wu, Hong Kong University of Science and Technology, Hong Kong SAR, China
+- 2024.09 - 2025.01, Research Assistant supervised by Prof. Daoyuan Wu, City University of Hong Kong, Shenzhen Research Institute, Shenzhen, China
+<!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
@@ -53,4 +63,29 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+📰 News
+======
+
+- 09/2025: 🎉Paper "Detecting Various DeFi Price Manipulations with LLM Reasoning" was accepted by ASE 2025.🎉
+
+📬 Services
+======
+- Conference Sub-reviewer:
+[ICLR 2026](https://iclr.cc/Conferences/2026/CallForPapers),
+[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/),
+[NDSS 2026](https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/),
+[USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26),
+[NDSS 2025](https://www.ndss-symposium.org/ndss2025/submissions/call-for-papers/),
+[USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers),
+[CCS 2025](https://www.sigsac.org/ccs/CCS2025/call-for-papers/),
+[ISSTA 2025](https://conf.researchr.org/home/issta-2025),
+[ICSE 2025](https://conf.researchr.org/home/icse-2025)
+- Journal Sub-reviewer:
+  - Top Journals:
+  [PNAS](https://www.pnas.org),
+  [PNAS Nexus](https://academic.oup.com/pnasnexus)
+  - [IEEE Transactions on Information Forensics and Security (TIFS)](https://mc.manuscriptcentral.com/tifs-ieee),
+  [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858),
+  [Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://mc.manuscriptcentral.com/tpami-cs)

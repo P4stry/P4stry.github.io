@@ -40,7 +40,7 @@ Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan Uni
     <img src="https://img.shields.io/badge/arXiv-2502.11521-B31B1B?style=flat-square" alt>
   </a>
 
-  - **Juantao Zhong $^\dagger$**, Daoyuan Wu $^\dagger$, Ye Liu $^*$, Maoyi Xie, Yang Liu, Yi Li, and Ning Liu
+  - **Juantao Zhong ^{\dagger}**, Daoyuan Wu ^{\dagger}, Ye Liu ^*, Maoyi Xie, Yang Liu, Yi Li, and Ning Liu
   - Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025) \| **Citations: 6**
   - This paper is about using fine-tuned LLMs to infer price change tendency of tokens for detecting price manipulations.
   - DeFiScope is now open-sourced. Find more at [this website](https://github.com/AIS2Lab/DeFiScope)

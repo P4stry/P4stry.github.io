@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan University](https://www.ln.edu.hk) supervised by [Prof. Daoyuan Wu](https://daoyuan14.github.io/#arXiv2403-2). He received his MSc degree from [Nanyang Technological University](https://www.ntu.edu.sg) in 2024 and bachelor degree from [South China University of Technology](https://www.scut.edu.cn) in 2022.
+Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan University](https://www.ln.edu.hk) supervised by [Prof. Daoyuan Wu](https://daoyuan14.github.io/#arXiv2403-2). He received his MSc degree from [Nanyang Technological University](https://www.ntu.edu.sg) in 2024 and bachelor degree from [South China University of Technology](https://www.scut.edu.cn) in 2022. His research interests encompass LLM for cybersecurity, LLM compliance, and Blockchain security.
 
 📖 Educations
 ======
@@ -27,9 +27,14 @@ Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan Uni
 
 - 09/2025: 🎉Paper "Detecting Various DeFi Price Manipulations with LLM Reasoning" was accepted by ASE 2025.🎉
 
+📝 Selected Publications [[Full List](/publications/)]
+======
+
+
+
 📬 Services
 ======
-- Conference Sub-reviewer:
+- **Conference Sub-reviewer**:
 [ICLR 2026](https://iclr.cc/Conferences/2026/CallForPapers),
 [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/),
 [NDSS 2026](https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/),
@@ -39,7 +44,7 @@ Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan Uni
 [CCS 2025](https://www.sigsac.org/ccs/CCS2025/call-for-papers/),
 [ISSTA 2025](https://conf.researchr.org/home/issta-2025),
 [ICSE 2025](https://conf.researchr.org/home/icse-2025)
-- Journal Sub-reviewer:
+- **Journal Sub-reviewer**:
   - Top Journals:
   [PNAS](https://www.pnas.org),
   [PNAS Nexus](https://academic.oup.com/pnasnexus)

@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-8526-1972"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Juantao-Zhong"
   scopus           : # URL
 
   # Repositories and software development

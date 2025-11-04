@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan University](https://www.ln.edu.hk) supervised by [Prof. Daoyuan Wu](https://daoyuan14.github.io/#arXiv2403-2). He received his MSc degree from [Nanyang Technological University](https://www.ntu.edu.sg) in 2024 and bachelor degree from [South China University of Technology](https://www.scut.edu.cn) in 2022. His research interests encompass LLM for cybersecurity, LLM compliance, and Blockchain security.
+Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan University](https://www.ln.edu.hk) supervised by [Prof. Daoyuan Wu](https://daoyuan14.github.io/#arXiv2403-2). He received his MSc degree from [Nanyang Technological University](https://www.ntu.edu.sg) in 2024 and bachelor degree from [South China University of Technology](https://www.scut.edu.cn) in 2022. His research interests encompass LLM for cybersecurity, LLM compliance, and Blockchain security
 
 📖 Educations
 ======
@@ -30,7 +30,20 @@ Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan Uni
 📝 Selected Publications [[Full List](/publications/)]
 ======
 
+- [**Detecting Various DeFi Price Manipulations with LLM Reasoning**](https://conf.researchr.org/details/ase-2025/ase-2025-papers/187/Detecting-Various-DeFi-Price-Manipulations-with-LLM-Reasoning)
+  
+  <img src="https://img.shields.io/badge/CCF-A-red?style=flat-square" alt>
+  <a href="https://conf.researchr.org/details/ase-2025/ase-2025-papers/187/Detecting-Various-DeFi-Price-Manipulations-with-LLM-Reasoning">
+    <img src="https://img.shields.io/badge/ASE-2025-blue?style=flat-square" alt>
+  </a>
+  <a href="https://arxiv.org/pdf/2502.11521">
+    <img src="https://img.shields.io/badge/arXiv-2502.11521-B31B1B?style=flat-square" alt>
+  </a>
 
+  - **Juantao Zhong**, Daoyuan Wu, Ye Liu, Maoyi Xie, Yang Liu, Yi Li, Ning Liu
+  - Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025) | **Citations: 6**
+  - This paper is about using fine-tuned LLMs to infer price change tendency of tokens for detecting price manipulations.
+  - DeFiScope is now open-sourced. Find more at [this website](https://github.com/AIS2Lab/DeFiScope)
 
 📬 Services
 ======

@@ -1,3 +1,12 @@
+---
+permalink: /publications/
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+
 <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=64oGR1MAAAAJ">my Google Scholar profile</a>.</div>
 <div class="wordwrap"><sup>#</sup> indicates the co-first authors.</div>
 <div class="wordwrap"><sup>*</sup> indicates the corresponding author.</div>

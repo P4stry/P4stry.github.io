@@ -1,10 +1,10 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "📝 Publications"
 author_profile: true
 ---
 
-<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=64oGR1MAAAAJ">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find his articles on <a href="https://scholar.google.com/citations?user=64oGR1MAAAAJ">my Google Scholar profile</a>.</div>
 <div class="wordwrap"><sup>#</sup> indicates the co-first authors.</div>
 <div class="wordwrap"><sup>*</sup> indicates the corresponding author.</div>
 
@@ -28,7 +28,7 @@ author_profile: true
 
 ### **Rethinking and Exploring String-Based Malware Family Classification in the Era of LLMs and RAG**
 
-<a href="https://arxiv.org/pdf/2507.04055">
+<a href="https://arxiv.org/abs/2507.04055">
     <img src="https://img.shields.io/badge/arXiv-2507.04055-B31B1B?style=flat-square" alt>
 </a>
 <a href="https://github.com/AIS2Lab/MalwareGPT">
@@ -43,7 +43,7 @@ author_profile: true
 
 ### **Effective Online Exam Proctoring by Combining Lightweight Face Detection and Deep Recognition**
 
-<a href="https://arxiv.org/pdf/2206.13356">
+<a href="https://arxiv.org/abs/2206.13356">
     <img src="https://img.shields.io/badge/arXiv-2206.13356-B31B1B?style=flat-square" alt>
 </a>
 <a href="https://github.com/VPRLab/iExam">

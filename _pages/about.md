@@ -20,7 +20,7 @@ Juantao Zhong (钟隽韬 in Chinese) is now a research assistant at [Lingnan Uni
 
 - *2025.11 - now*, Research Assistant supervised by Prof. Daoyuan Wu, Lingnan University, Hong Kong SAR, China
 - *2025.04 - 2025.10*, Research Assistant supervised by Prof. Daoyuan Wu, Hong Kong University of Science and Technology, Hong Kong SAR, China
-- *2024.09 - 2025.01*, Research Assistant supervised by Prof. Ning Liu, Prof. Daoyuan Wu, City University of Hong Kong, Shenzhen Research Institute, Shenzhen, China
+- *2024.09 - 2025.01*, Research Assistant supervised by Prof. Ning Liu and Prof. Daoyuan Wu, City University of Hong Kong, Shenzhen Research Institute, Shenzhen, China
 
 📰 News
 ======
